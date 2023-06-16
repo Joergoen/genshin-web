@@ -1,0 +1,67 @@
+*,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* dicoba menggunakan margin & padding */
+/* border */
+/* gambar dimasukkan ke assets */
+
+/* START SECTION HERO */
+.section__hero {
+}
+
+.section__hero-title {
+}
+
+.section__hero-paragraph {
+}
+
+.section__hero-image {
+}
+/* END SECTION HERO */
+
+/* START SECTION CHARACTER */
+.section__character {
+  margin: 0 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+  margin-bottom: 25px;
+}
+
+.section__character-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.section__character-name {
+  margin-bottom: 20px;
+}
+
+.section__character-description {
+  text-align: center;
+}
+
+.section__character-image {
+  width: 640px;
+  height: auto;
+}
+/* END SECTION CHARACTER */
+
+/* START FOOTER */
+.footer {
+}
+
+.footer__logo {
+}
+
+.footer__copyright {
+}
+/* END FOOTER */
